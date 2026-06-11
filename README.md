@@ -8,7 +8,9 @@ cd "c:\Users\subp0315\Desktop\POC Churn\v2\fiber-churn-enterprise"; python -m uv
 
 Running UI project:
 cd "c:\Users\subp0315\Desktop\POC Churn\v3\fiber-churn-enterprise\ui";
+
 npm run build
+
 npm run service
 
 Open http://localhost:4000
